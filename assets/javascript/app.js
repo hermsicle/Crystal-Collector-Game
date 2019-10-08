@@ -1,9 +1,4 @@
-$(document).ready (function) {
-
-
-
-}
-
+console.log ('hello world')
 
 //create variables 
 //Create a random number generator for the winning number
