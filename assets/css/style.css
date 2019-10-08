@@ -1,28 +1,25 @@
-h1 {
-    background-color: orange;
-    color: white;
+.game-title {
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+p {
     font-family: 'Lobster', cursive;
+    font-size: 50px;
 }
 
-.col-sm-6 {
-    background-color: whitesmoke;
-    color: green;
-    line-height: 200%;
+.rules-container {
+    margin-top: 25px;
+    margin-left: 50px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
+.rules {
+    line-height:2;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 18px;
+}
 
 body {
     background-image: url(../images/5782640-legend-zelda-breath-wild-hd-wallpapers.jpg)
-};
+}
