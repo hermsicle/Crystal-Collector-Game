@@ -1,0 +1,28 @@
+h1 {
+    background-color: orange;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+
+.col-sm-6 {
+    background-color: whitesmoke;
+    color: green;
+    line-height: 200%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background-image: url(../images/5782640-legend-zelda-breath-wild-hd-wallpapers.jpg)
+};
