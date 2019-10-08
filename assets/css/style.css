@@ -20,6 +20,44 @@ p {
     font-size: 18px;
 }
 
+.win-loss {
+    margin-top: 20px;
+    margin-left: 50px;
+    font-family: 'Lobster', cursive;
+    line-height: 2;
+    font-size: 18px;
+}
+
+.crystals {
+margin-left: 50px;
+margin-top: 25px;
+}
+#blueGem {
+    height: 75px;
+    opacity: 0.75;
+}
+#greenGem {
+    height: 75px;
+    opacity: 0.75;
+}
+#redGem {
+    height: 75px;
+    opacity: 0.75;
+}
+#yellowGem {
+    height: 75px;
+    opacity: 0.75;
+}
+
+
+
+
+
+
+
+
+
+
 body {
     background-image: url(../images/5782640-legend-zelda-breath-wild-hd-wallpapers.jpg)
 }
