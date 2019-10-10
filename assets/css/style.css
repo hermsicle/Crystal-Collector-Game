@@ -1,34 +1,56 @@
-.game-title {
-    padding: 10px;
-    margin-top: 50px;
+.game-title-container {
+    padding: 20px;
+    margin-top: 30px;
     margin-left: 50px;
+    background:white;
+    border: 1px solid black;
+    width: 510px;
+    text-align:center;
+    opacity: 0.75;
 }
 
 p {
     font-family: 'Lobster', cursive;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 
 .rules-container {
     margin-top: 25px;
     margin-left: 50px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    width: 550px;
+    opacity: 0.75
 }
 
 .rules {
     line-height:2;
     font-family: 'Shadows Into Light', cursive;
     font-size: 18px;
+    padding: 25px;
 }
 
 .numberToMatch , .win-loss {
     font-family: 'Lobster', cursive;
-    font-size: 18px;
     margin-top: 25px;
     margin-left: 50px;
+    background: whitesmoke;
+    border: 1px solid black;
+    opacity: 0.75;
 }
 
+.numberToMatch {
+    width: 30px;
+    font-size: 25px;
+    padding: 10px;
+}
 
+.win-loss {
+    width: 150px;
+    font-size: 20px;
+    padding: 15px;
+}
 
 .crystals {
 margin-left: 50px;
@@ -53,17 +75,15 @@ margin-top: 25px;
 
 h2 {
     font-family: 'Lobster', cursive;
-    font-size: 18px;
+    font-size: 25px;
     margin-top: 25px;
     margin-left: 50px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    opacity: 0.75;
+    width: 180px;
+    padding: 25px;
 }
-
-
-
-
-
-
-
 
 body {
     background-image: url(../images/5782640-legend-zelda-breath-wild-hd-wallpapers.jpg)
